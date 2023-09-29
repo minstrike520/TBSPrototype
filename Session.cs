@@ -1,0 +1,5 @@
+﻿enum TurnTiming
+{
+    Init,
+    End
+}
